@@ -1,0 +1,49 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+~*
+
+# Windows and macOS system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+._*
+
+# Office temporary files
+~$*
+*.wbk
+
+# Environment and secret files
+.env
+.env.*
+*.env
+*password*
+*Password*
+*парол*
+private/
+Private/
+secrets/
+Secrets/
+*.secret
+*.key
+*.pem
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+**/__pycache__/
+*pycache*
+*.py[cod]
+.pytest_cache/
+.cache/
+
+# Drafts with personal data
+drafts_with_personal_data/
+personal_data_drafts/
+*personal-data*
+*личн*
+*персональн*
