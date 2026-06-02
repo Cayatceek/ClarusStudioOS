@@ -1,44 +1,49 @@
+# Environment files
+.env
+.env.*
+*.env
+*.local
+
+# Private and secret files
+secrets/
+Secrets/
+private/
+Private/
+*.secret
+*.key
+*.pem
+*password*
+*Password*
+*парол*
+
+# Dependencies
+node_modules/
+
+# Python caches
+__pycache__/
+**/__pycache__/
+**pycache**/
+*pycache*
+*.py[cod]
+.pytest_cache/
+
+# System files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
 # Temporary files
 *.tmp
 *.temp
 *.bak
 *.swp
 *.swo
-*.log
 ~*
-
-# Windows and macOS system files
-Thumbs.db
-Desktop.ini
-.DS_Store
-._*
-
-# Office temporary files
 ~$*
-*.wbk
+*.log
 
-# Environment and secret files
-.env
-.env.*
-*.env
-*password*
-*Password*
-*парол*
-private/
-Private/
-secrets/
-Secrets/
-*.secret
-*.key
-*.pem
-
-# Dependencies and caches
-node_modules/
-__pycache__/
-**/__pycache__/
-*pycache*
-*.py[cod]
-.pytest_cache/
+# Local caches
 .cache/
 
 # Drafts with personal data

@@ -1,4 +1,4 @@
-Date,Client,Project,Stage,Expected Amount,Paid Amount,Payment Status,Next Payment Date,Comment
-2026-01-10,Business Placeholder 01,Mini Site,First Stage,300,0,Expected,2026-01-15,Согласовать структуру и первый платеж
-2026-01-12,Business Placeholder 02,Catalog Website,Structure,500,250,Partially Paid,2026-01-20,Ожидается вторая часть после согласования структуры
-2026-01-18,Business Placeholder 03,Digital Audit,Audit,100,100,Paid,,Этап закрыт
+Date,Client,Project,Stage,Expected Amount,Paid Amount,Remaining Amount,Payment Status,Next Payment Date,Comment
+2026-01-10,Furniture Business Placeholder,Сайт-каталог,Первый этап,500,250,250,Partially Paid,2026-01-20,Ожидается вторая часть после согласования структуры
+2026-01-12,Beauty Salon Placeholder,Мини-сайт,Структура и сборка,300,0,300,Expected,2026-01-16,Согласовать первый платеж перед стартом
+2026-01-15,Training Center Placeholder,Telegram-бот,Сценарий и запуск,400,400,0,Paid,,Этап закрыт и передан клиенту

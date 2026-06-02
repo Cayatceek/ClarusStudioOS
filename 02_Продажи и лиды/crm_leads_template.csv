@@ -1,4 +1,4 @@
-Business Name,Niche,City,Instagram,Telegram,Website,Main Problem,Offer,Status,First Contact Date,Last Contact Date,Next Step,Comment
-Business Placeholder 01,Cafe,Tashkent,[instagram_placeholder],[telegram_placeholder],https://example.com,Нет понятной страницы для заявки,Мини-сайт для заявки,Новый,,,,Проверить профиль и подготовить первое сообщение
-Business Placeholder 02,Furniture,Tashkent,[instagram_placeholder],[telegram_placeholder],,Каталог сложно показать клиенту,Сайт-каталог,Проверен,,,,Написать короткое сообщение с вопросом по каталогу
-Business Placeholder 03,Beauty Studio,Tashkent,[instagram_placeholder],,,Клиент не видит услуги и цены,Страница услуг с записью,Пауза,,,,Сделать мягкий follow-up через несколько дней
+Business Name,Niche,City,Instagram,Telegram,Website,Main Problem,Offer,Status,First Contact Date,Last Contact Date,Next Step,Priority,Comment
+Furniture Business Placeholder,Furniture,Tashkent,[instagram_placeholder],[telegram_placeholder],https://example.com,Каталог товаров сложно показать клиенту в одном месте,Сайт-каталог,Проверен,,,Подготовить первое сообщение про каталог,High,Проверить категории и текущий путь к заявке
+Beauty Salon Placeholder,Beauty,Tashkent,[instagram_placeholder],[telegram_placeholder],,Клиенту сложно быстро увидеть услуги цены и запись,Мини-сайт с формой заявки,Новый,,,Проверить профиль и выделить главную проблему,Medium,Не использовать реальные контакты
+Training Center Placeholder,Education,Tashkent,[instagram_placeholder],[telegram_placeholder],https://example.edu,Нет понятной страницы по курсам и заявкам,Лендинг или форма заявки,Написали,2026-01-10,2026-01-10,Сделать follow-up через 2-3 дня,Low,Placeholder-строка для учебного центра
